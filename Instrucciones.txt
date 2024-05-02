@@ -1,0 +1,7 @@
+1: Clonamos un repositorio con los recursos necesarios para comenzar, para ello usamos el comando "npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"".
+
+2:Usamos el comando "npm i" para instalar los recursos del proyecto
+
+
+3: Usamos el comando "npm run dev" para iniciar el servidor de desarrollo.
+
